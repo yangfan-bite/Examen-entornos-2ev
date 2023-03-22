@@ -10,6 +10,8 @@ public class Principal {
 		System.out.println("primer cambio en la ramaA");
 
 		System.out.println("adios hasta luego");
+		
+		System.out.println("cambio desde el remoto");
 	}
 
 }
